@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Kripto Likidasyon Tarayıcı",
+  "description": "Bir Python betiğinden esinlenerek, fiyat ve hacim değişikliklerine dayalı potansiyel pump/dump sinyalleri için Binance Futures piyasalarını taramayı simüle eden bir web uygulaması. Gerçekçi piyasa sinyal verileri oluşturmak için Gemini kullanır.",
+  "requestFramePermissions": []
+}
